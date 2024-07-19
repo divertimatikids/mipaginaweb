@@ -1,0 +1,15 @@
+body {
+    background-color: #bee978;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.table th, .table td {
+    text-align: center;
+}
+
+.btn {
+    margin-right: 5px;
+}
